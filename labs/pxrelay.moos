@@ -10,8 +10,8 @@ ProcessConfig = ANTLER
 
   Run = MOOSDB	 	 @ NewConsole = false
   Run = uXMS     	 @ NewConsole = true
-  Run = pXRelay	 	 @ NewConsole = false ~pXRelay_PEARS
-  Run = pXRelay	 	 @ NewConsole = false ~pXRelay_APPLES
+  Run = pXRelayTest	 	 @ NewConsole = false ~pXRelay_PEARS
+  Run = pXRelayTest	 	 @ NewConsole = false ~pXRelay_APPLES
   Run = uTimerScript @ NewConsole = false ~uTimerScript_Kick
   Run = uTimerScript @ NewConsole = false ~uTimerScript_Count
 
